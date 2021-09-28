@@ -9,6 +9,8 @@ fun main() {
             count += 1
 
             println("#$count -> $b -> ${b.length} simbols ")
+
+            //yess it is
         }
     }
 }
