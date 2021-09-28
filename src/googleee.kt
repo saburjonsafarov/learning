@@ -10,7 +10,7 @@ fun main() {
 
             println("#$count -> $b -> ${b.length} simbols ")
 
-            //yess it is
+            //yess it is and it is !!
         }
     }
 }
