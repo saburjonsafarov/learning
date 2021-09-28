@@ -11,6 +11,10 @@ fun main() {
             println("#$count -> $b -> ${b.length} simbols ")
 
             //yess it is and it is !!
+
+
+
+            // hahaha
         }
     }
 }
